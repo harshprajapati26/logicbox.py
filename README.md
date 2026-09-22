@@ -193,11 +193,7 @@ python logic_box.py
 Watch the complete project demonstration here:
 
 **▶️ Video Link:**\
-`PASTE-YOUR-VIDEO-LINK-HERE`
-
-> Replace `PASTE-YOUR-VIDEO-LINK-HERE` with your Google Drive, YouTube,
-> or other video link.
-
+`https://drive.google.com/file/d/17SeFKqD1G5roCrMhkJRW47gf27zJv9mb/view?usp=sharing`
 ------------------------------------------------------------------------
 
 ## 🖥️ Example Console Interaction
