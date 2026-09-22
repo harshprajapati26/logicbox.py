@@ -193,7 +193,7 @@ python logic_box.py
 Watch the complete project demonstration here:
 
 **▶️ Video Link:**\
-`https://drive.google.com/file/d/17SeFKqD1G5roCrMhkJRW47gf27zJv9mb/view?usp=sharing`
+https://drive.google.com/file/d/17SeFKqD1G5roCrMhkJRW47gf27zJv9mb/view?usp=sharing
 ------------------------------------------------------------------------
 
 ## 🖥️ Example Console Interaction
